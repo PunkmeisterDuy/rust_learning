@@ -1,0 +1,1 @@
+C:\Users\Punkm\Projects\Programming\rust_learning\assignments\mean_median_mode\target\debug\mean_median_mode.exe: C:\Users\Punkm\Projects\Programming\rust_learning\assignments\mean_median_mode\src\main.rs
