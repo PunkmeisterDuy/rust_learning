@@ -30,19 +30,21 @@ fn main() {
     // tuple struct
     let black = Color(0, 0, 0);
 
+    black.2;
+
     
 
 }
 
 // regular struct with name of struct, and data fields with names
 struct User {
-    username: String,
+    username: String, // If &str, compile error: expected lifetime parameter.uses strings because it wants to have string in its entire lifetime and not reference to be owned by sdomething else
     email: String,
     sign_in_count: u64,
     active: bool
 }
 
-//tuple struct
+//tuple struct: give name, but data fields without names; still defined by its own strut type so cannot be used exactly as tuple
 struct Color(i32, i32, i32);
 
 /*

@@ -1,0 +1,1 @@
+C:\Users\Punkm\Projects\Programming\rust_learning\struct_area_of_rectangle\target\debug\struct_area_of_rectangle.exe: C:\Users\Punkm\Projects\Programming\rust_learning\struct_area_of_rectangle\src\main.rs
