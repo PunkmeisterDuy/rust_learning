@@ -9,22 +9,25 @@ fn main() {
     }
 
     let mut total : i32 = 0;
-    let mut word_counter  = 0;
+    let mut num_counter  = 0;
 
     for element in &nums {
         total = total + element;
     }
 
-    let mut median : i32;
+    let median : i32;
+    
 
+    
     match is_even(vector) {
         Some(true) => {
-            median = vector[total/2];
             println!("nums is even");
         },
         Some(false) => {
-            median = vector[total/2];
+            let median = nums[nums.len()/2];
             println!("nums is odd");
+            println!("{}", median)
+
         }
         ,
         None => println!("Could not print median")
@@ -34,7 +37,7 @@ fn main() {
 
 
     println!("The mean is: {}", mean);
-    println!("{}", median)
+
 
 }
 
