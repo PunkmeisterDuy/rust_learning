@@ -1,0 +1,1 @@
+C:\Users\Punkm\Projects\Programming\rust_learning\packages_crates\target\debug\packages_crates.exe: C:\Users\Punkm\Projects\Programming\rust_learning\packages_crates\src\lib.rs C:\Users\Punkm\Projects\Programming\rust_learning\packages_crates\src\main.rs
