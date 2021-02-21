@@ -1,3 +1,5 @@
+use std::collections::HashMap;
+
 fn main() {
     
     let nums : [i32; 8] = [1, 2, 3, 4, 5, 6, 7, 8];
@@ -9,39 +11,46 @@ fn main() {
     }
 
     let mut total : i32 = 0;
-    let mut num_counter  = 0;
 
     for element in &nums {
         total = total + element;
     }
 
-    let median : i32;
-    
-
-    
-    match is_even(vector) {
-        Some(true) => {
-            println!("nums is even");
-        },
-        Some(false) => {
-            let median = nums[nums.len()/2];
-            println!("nums is odd");
-            println!("{}", median)
-
-        }
-        ,
-        None => println!("Could not print median")
-    }
-    
     let mean : f32 = (total as f32) / 2.0;
 
 
+    let mut median;
+    let length = vector.len();
+    
+    match is_even(&mut vector) {
+        Some(true) => {
+            let index = (length as f32) / 2.0;
+            println!("{}", index)
+            median = 0;
+
+            println!("nums is even");
+        },
+        Some(false) => {
+            let median = nums[length/2];
+            println!("nums is odd");
+        }
+        ,
+        None => {
+            let median = 0;
+            println!("Could not print median");
+        }
+    }
+
+    
+
+
     println!("The mean is: {}", mean);
+    println!("The median is: {}", median);
 
 
 }
 
-fn is_even(vector : Vec<i32> ) -> Option<bool> {
+fn is_even(vector : &mut Vec<i32> ) -> Option<bool> {
 
     let length = vector.len();
     let modulus = length % 2;
