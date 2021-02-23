@@ -1,0 +1,7 @@
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\hound-7bac1c1bdb3f8ead.rmeta: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\hound-3.4.0\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\hound-3.4.0\src\read.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\hound-3.4.0\src\write.rs
+
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\hound-7bac1c1bdb3f8ead.d: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\hound-3.4.0\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\hound-3.4.0\src\read.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\hound-3.4.0\src\write.rs
+
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\hound-3.4.0\src\lib.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\hound-3.4.0\src\read.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\hound-3.4.0\src\write.rs:

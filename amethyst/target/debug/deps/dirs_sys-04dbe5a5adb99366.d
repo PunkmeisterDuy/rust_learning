@@ -1,0 +1,7 @@
+C:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\debug\deps\dirs_sys-04dbe5a5adb99366.rmeta: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\dirs-sys-0.3.5\src\lib.rs
+
+C:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\debug\deps\libdirs_sys-04dbe5a5adb99366.rlib: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\dirs-sys-0.3.5\src\lib.rs
+
+C:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\debug\deps\dirs_sys-04dbe5a5adb99366.d: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\dirs-sys-0.3.5\src\lib.rs
+
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\dirs-sys-0.3.5\src\lib.rs:

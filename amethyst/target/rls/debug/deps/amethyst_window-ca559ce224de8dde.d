@@ -1,0 +1,10 @@
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\amethyst_window-ca559ce224de8dde.rmeta: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst_window-0.15.3\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst_window-0.15.3\src\bundle.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst_window-0.15.3\src\config.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst_window-0.15.3\src\monitor.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst_window-0.15.3\src\resources.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst_window-0.15.3\src\system.rs
+
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\amethyst_window-ca559ce224de8dde.d: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst_window-0.15.3\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst_window-0.15.3\src\bundle.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst_window-0.15.3\src\config.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst_window-0.15.3\src\monitor.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst_window-0.15.3\src\resources.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst_window-0.15.3\src\system.rs
+
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst_window-0.15.3\src\lib.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst_window-0.15.3\src\bundle.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst_window-0.15.3\src\config.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst_window-0.15.3\src\monitor.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst_window-0.15.3\src\resources.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst_window-0.15.3\src\system.rs:

@@ -1,0 +1,12 @@
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\cc-f3658c14e02f9c3f.rmeta: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\registry.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\winapi.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\com.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\setup_config.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\windows_registry.rs
+
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\libcc-f3658c14e02f9c3f.rlib: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\registry.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\winapi.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\com.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\setup_config.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\windows_registry.rs
+
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\cc-f3658c14e02f9c3f.d: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\registry.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\winapi.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\com.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\setup_config.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\windows_registry.rs
+
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\lib.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\registry.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\winapi.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\com.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\setup_config.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.67\src\windows_registry.rs:

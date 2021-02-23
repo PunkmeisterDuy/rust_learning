@@ -1,0 +1,10 @@
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\unic_langid_impl-e1a63ca4592c96f0.rmeta: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-langid-impl-0.8.0\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-langid-impl-0.8.0\src\errors.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-langid-impl-0.8.0\src\layout_table.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-langid-impl-0.8.0\src\parser\mod.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-langid-impl-0.8.0\src\parser\errors.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-langid-impl-0.8.0\src\subtags.rs
+
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\unic_langid_impl-e1a63ca4592c96f0.d: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-langid-impl-0.8.0\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-langid-impl-0.8.0\src\errors.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-langid-impl-0.8.0\src\layout_table.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-langid-impl-0.8.0\src\parser\mod.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-langid-impl-0.8.0\src\parser\errors.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-langid-impl-0.8.0\src\subtags.rs
+
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-langid-impl-0.8.0\src\lib.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-langid-impl-0.8.0\src\errors.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-langid-impl-0.8.0\src\layout_table.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-langid-impl-0.8.0\src\parser\mod.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-langid-impl-0.8.0\src\parser\errors.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-langid-impl-0.8.0\src\subtags.rs:

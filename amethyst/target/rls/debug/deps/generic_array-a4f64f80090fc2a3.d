@@ -1,0 +1,11 @@
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\generic_array-a4f64f80090fc2a3.rmeta: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.13.2\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.13.2\src\hex.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.13.2\src\impls.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.13.2\src\arr.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.13.2\src\functional.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.13.2\src\iter.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.13.2\src\sequence.rs
+
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\generic_array-a4f64f80090fc2a3.d: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.13.2\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.13.2\src\hex.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.13.2\src\impls.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.13.2\src\arr.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.13.2\src\functional.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.13.2\src\iter.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.13.2\src\sequence.rs
+
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.13.2\src\lib.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.13.2\src\hex.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.13.2\src\impls.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.13.2\src\arr.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.13.2\src\functional.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.13.2\src\iter.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.13.2\src\sequence.rs:

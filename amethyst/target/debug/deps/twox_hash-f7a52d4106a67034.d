@@ -1,0 +1,11 @@
+C:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\debug\deps\twox_hash-f7a52d4106a67034.rmeta: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\twox-hash-1.6.0\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\twox-hash-1.6.0\src\sixty_four.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\twox-hash-1.6.0\src\thirty_two.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\twox-hash-1.6.0\src\xxh3.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\twox-hash-1.6.0\src\std_support.rs
+
+C:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\debug\deps\libtwox_hash-f7a52d4106a67034.rlib: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\twox-hash-1.6.0\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\twox-hash-1.6.0\src\sixty_four.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\twox-hash-1.6.0\src\thirty_two.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\twox-hash-1.6.0\src\xxh3.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\twox-hash-1.6.0\src\std_support.rs
+
+C:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\debug\deps\twox_hash-f7a52d4106a67034.d: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\twox-hash-1.6.0\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\twox-hash-1.6.0\src\sixty_four.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\twox-hash-1.6.0\src\thirty_two.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\twox-hash-1.6.0\src\xxh3.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\twox-hash-1.6.0\src\std_support.rs
+
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\twox-hash-1.6.0\src\lib.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\twox-hash-1.6.0\src\sixty_four.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\twox-hash-1.6.0\src\thirty_two.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\twox-hash-1.6.0\src\xxh3.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\twox-hash-1.6.0\src\std_support.rs:

@@ -1,0 +1,10 @@
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\rendy_texture-ab5123ddcaf9ac2b.rmeta: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-texture-0.4.1\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-texture-0.4.1\src\format.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-texture-0.4.1\src\format\image.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-texture-0.4.1\src\format\palette.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-texture-0.4.1\src\pixel.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-texture-0.4.1\src\texture.rs
+
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\rendy_texture-ab5123ddcaf9ac2b.d: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-texture-0.4.1\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-texture-0.4.1\src\format.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-texture-0.4.1\src\format\image.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-texture-0.4.1\src\format\palette.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-texture-0.4.1\src\pixel.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-texture-0.4.1\src\texture.rs
+
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-texture-0.4.1\src\lib.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-texture-0.4.1\src\format.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-texture-0.4.1\src\format\image.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-texture-0.4.1\src\format\palette.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-texture-0.4.1\src\pixel.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-texture-0.4.1\src\texture.rs:

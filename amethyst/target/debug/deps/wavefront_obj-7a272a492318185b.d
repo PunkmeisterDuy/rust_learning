@@ -1,0 +1,11 @@
+C:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\debug\deps\wavefront_obj-7a272a492318185b.rmeta: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\wavefront_obj-6.0.0\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\wavefront_obj-6.0.0\src\lex.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\wavefront_obj-6.0.0\src\util.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\wavefront_obj-6.0.0\src\mtl.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\wavefront_obj-6.0.0\src\obj.rs
+
+C:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\debug\deps\libwavefront_obj-7a272a492318185b.rlib: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\wavefront_obj-6.0.0\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\wavefront_obj-6.0.0\src\lex.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\wavefront_obj-6.0.0\src\util.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\wavefront_obj-6.0.0\src\mtl.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\wavefront_obj-6.0.0\src\obj.rs
+
+C:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\debug\deps\wavefront_obj-7a272a492318185b.d: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\wavefront_obj-6.0.0\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\wavefront_obj-6.0.0\src\lex.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\wavefront_obj-6.0.0\src\util.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\wavefront_obj-6.0.0\src\mtl.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\wavefront_obj-6.0.0\src\obj.rs
+
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\wavefront_obj-6.0.0\src\lib.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\wavefront_obj-6.0.0\src\lex.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\wavefront_obj-6.0.0\src\util.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\wavefront_obj-6.0.0\src\mtl.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\wavefront_obj-6.0.0\src\obj.rs:

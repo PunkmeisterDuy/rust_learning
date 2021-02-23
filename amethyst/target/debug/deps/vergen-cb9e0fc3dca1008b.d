@@ -1,0 +1,11 @@
+C:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\debug\deps\vergen-cb9e0fc3dca1008b.rmeta: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\vergen-3.2.0\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\vergen-3.2.0\src\constants.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\vergen-3.2.0\src\output\mod.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\vergen-3.2.0\src\output\codegen.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\vergen-3.2.0\src\output\envvar.rs
+
+C:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\debug\deps\libvergen-cb9e0fc3dca1008b.rlib: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\vergen-3.2.0\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\vergen-3.2.0\src\constants.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\vergen-3.2.0\src\output\mod.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\vergen-3.2.0\src\output\codegen.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\vergen-3.2.0\src\output\envvar.rs
+
+C:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\debug\deps\vergen-cb9e0fc3dca1008b.d: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\vergen-3.2.0\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\vergen-3.2.0\src\constants.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\vergen-3.2.0\src\output\mod.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\vergen-3.2.0\src\output\codegen.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\vergen-3.2.0\src\output\envvar.rs
+
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\vergen-3.2.0\src\lib.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\vergen-3.2.0\src\constants.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\vergen-3.2.0\src\output\mod.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\vergen-3.2.0\src\output\codegen.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\vergen-3.2.0\src\output\envvar.rs:

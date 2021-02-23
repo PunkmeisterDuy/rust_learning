@@ -1,0 +1,12 @@
+C:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\debug\deps\gif-e6b496f9201d4bc3.rmeta: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\traits.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\common.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\reader\mod.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\reader\decoder.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\encoder.rs
+
+C:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\debug\deps\libgif-e6b496f9201d4bc3.rlib: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\traits.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\common.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\reader\mod.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\reader\decoder.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\encoder.rs
+
+C:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\debug\deps\gif-e6b496f9201d4bc3.d: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\traits.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\common.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\reader\mod.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\reader\decoder.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\encoder.rs
+
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\lib.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\traits.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\common.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\reader\mod.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\reader\decoder.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\encoder.rs:

@@ -1,0 +1,11 @@
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\tinyvec-bc02e55e7aa40fa8.rmeta: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.1\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.1\src\array.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.1\src\array\generated_impl.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.1\src\arrayvec.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.1\src\arrayvec_drain.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.1\src\slicevec.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.1\src\tinyvec.rs
+
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\tinyvec-bc02e55e7aa40fa8.d: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.1\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.1\src\array.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.1\src\array\generated_impl.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.1\src\arrayvec.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.1\src\arrayvec_drain.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.1\src\slicevec.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.1\src\tinyvec.rs
+
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.1\src\lib.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.1\src\array.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.1\src\array\generated_impl.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.1\src\arrayvec.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.1\src\arrayvec_drain.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.1\src\slicevec.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.1\src\tinyvec.rs:

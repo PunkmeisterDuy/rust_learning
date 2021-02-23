@@ -1,0 +1,11 @@
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\rendy_util-57e462b16d9ce124.rmeta: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-util-0.4.1\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-util-0.4.1\src\features.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-util-0.4.1\src\casts.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-util-0.4.1\src\slow.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-util-0.4.1\src\types\mod.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-util-0.4.1\src\types\vertex.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-util-0.4.1\src\wrap.rs
+
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\rendy_util-57e462b16d9ce124.d: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-util-0.4.1\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-util-0.4.1\src\features.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-util-0.4.1\src\casts.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-util-0.4.1\src\slow.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-util-0.4.1\src\types\mod.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-util-0.4.1\src\types\vertex.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-util-0.4.1\src\wrap.rs
+
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-util-0.4.1\src\lib.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-util-0.4.1\src\features.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-util-0.4.1\src\casts.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-util-0.4.1\src\slow.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-util-0.4.1\src\types\mod.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-util-0.4.1\src\types\vertex.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\rendy-util-0.4.1\src\wrap.rs:

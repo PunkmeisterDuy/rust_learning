@@ -1,0 +1,12 @@
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\erased_serde-82699bc82fe680b7.rmeta: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.13\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.13\src\macros.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.13\src\any.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.13\src\de.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.13\src\error.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.13\src\features_check\mod.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.13\src\ser.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.13\src\private.rs
+
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\erased_serde-82699bc82fe680b7.d: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.13\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.13\src\macros.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.13\src\any.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.13\src\de.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.13\src\error.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.13\src\features_check\mod.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.13\src\ser.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.13\src\private.rs
+
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.13\src\lib.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.13\src\macros.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.13\src\any.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.13\src\de.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.13\src\error.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.13\src\features_check\mod.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.13\src\ser.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.13\src\private.rs:

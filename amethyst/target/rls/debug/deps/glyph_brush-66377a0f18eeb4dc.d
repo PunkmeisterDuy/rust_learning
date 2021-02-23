@@ -1,0 +1,10 @@
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\glyph_brush-66377a0f18eeb4dc.rmeta: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.3\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.3\src\glyph_brush.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.3\src\glyph_brush\builder.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.3\src\glyph_calculator.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.3\src\owned_section.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.3\src\section.rs
+
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\glyph_brush-66377a0f18eeb4dc.d: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.3\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.3\src\glyph_brush.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.3\src\glyph_brush\builder.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.3\src\glyph_calculator.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.3\src\owned_section.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.3\src\section.rs
+
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.3\src\lib.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.3\src\glyph_brush.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.3\src\glyph_brush\builder.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.3\src\glyph_calculator.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.3\src\owned_section.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.3\src\section.rs:

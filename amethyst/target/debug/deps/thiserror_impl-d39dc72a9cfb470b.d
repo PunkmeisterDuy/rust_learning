@@ -1,0 +1,11 @@
+C:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\debug\deps\thiserror_impl-d39dc72a9cfb470b.dll: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.24\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.24\src\ast.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.24\src\attr.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.24\src\expand.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.24\src\fmt.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.24\src\prop.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.24\src\valid.rs
+
+C:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\debug\deps\thiserror_impl-d39dc72a9cfb470b.d: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.24\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.24\src\ast.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.24\src\attr.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.24\src\expand.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.24\src\fmt.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.24\src\prop.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.24\src\valid.rs
+
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.24\src\lib.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.24\src\ast.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.24\src\attr.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.24\src\expand.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.24\src\fmt.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.24\src\prop.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.24\src\valid.rs:

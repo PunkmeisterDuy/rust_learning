@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\debug\build\typenum-1d06ec9ca9eb1ebd\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\debug\build\typenum-1d06ec9ca9eb1ebd\out\op.rs

@@ -1,0 +1,12 @@
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\colorful-a7ce6bdb2e41ca70.rmeta: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\mod.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\colors.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\symbols.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\style.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\color_string.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\rgb.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\hsl.rs
+
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\colorful-a7ce6bdb2e41ca70.d: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\mod.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\colors.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\symbols.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\style.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\color_string.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\rgb.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\hsl.rs
+
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\lib.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\mod.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\colors.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\symbols.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\style.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\color_string.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\rgb.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\hsl.rs:

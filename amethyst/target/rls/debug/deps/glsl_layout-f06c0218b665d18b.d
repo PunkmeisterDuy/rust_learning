@@ -1,0 +1,11 @@
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\glsl_layout-f06c0218b665d18b.rmeta: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glsl-layout-0.3.2\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glsl-layout-0.3.2\src\align.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glsl-layout-0.3.2\src\scalar.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glsl-layout-0.3.2\src\vec.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glsl-layout-0.3.2\src\array.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glsl-layout-0.3.2\src\mat.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glsl-layout-0.3.2\src\std140.rs
+
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\glsl_layout-f06c0218b665d18b.d: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glsl-layout-0.3.2\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glsl-layout-0.3.2\src\align.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glsl-layout-0.3.2\src\scalar.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glsl-layout-0.3.2\src\vec.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glsl-layout-0.3.2\src\array.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glsl-layout-0.3.2\src\mat.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glsl-layout-0.3.2\src\std140.rs
+
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glsl-layout-0.3.2\src\lib.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glsl-layout-0.3.2\src\align.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glsl-layout-0.3.2\src\scalar.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glsl-layout-0.3.2\src\vec.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glsl-layout-0.3.2\src\array.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glsl-layout-0.3.2\src\mat.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\glsl-layout-0.3.2\src\std140.rs:

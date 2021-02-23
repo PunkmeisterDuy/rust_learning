@@ -1,0 +1,11 @@
+C:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\debug\deps\slice_deque-c11d9fd4bd56f0cb.rmeta: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\macros.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\mirrored\mod.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\mirrored\buffer.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\mirrored\winapi.rs
+
+C:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\debug\deps\libslice_deque-c11d9fd4bd56f0cb.rlib: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\macros.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\mirrored\mod.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\mirrored\buffer.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\mirrored\winapi.rs
+
+C:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\debug\deps\slice_deque-c11d9fd4bd56f0cb.d: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\macros.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\mirrored\mod.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\mirrored\buffer.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\mirrored\winapi.rs
+
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\lib.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\macros.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\mirrored\mod.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\mirrored\buffer.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\mirrored\winapi.rs:

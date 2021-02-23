@@ -1,0 +1,10 @@
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\fluent_syntax-e47817bdee10393c.rmeta: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\fluent-syntax-0.9.3\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\fluent-syntax-0.9.3\src\ast.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\fluent-syntax-0.9.3\src\parser\mod.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\fluent-syntax-0.9.3\src\parser\errors.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\fluent-syntax-0.9.3\src\parser\ftlstream.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\fluent-syntax-0.9.3\src\unicode.rs
+
+c:\Users\Punkm\Projects\Programming\rust_learning\amethyst\target\rls\debug\deps\fluent_syntax-e47817bdee10393c.d: C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\fluent-syntax-0.9.3\src\lib.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\fluent-syntax-0.9.3\src\ast.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\fluent-syntax-0.9.3\src\parser\mod.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\fluent-syntax-0.9.3\src\parser\errors.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\fluent-syntax-0.9.3\src\parser\ftlstream.rs C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\fluent-syntax-0.9.3\src\unicode.rs
+
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\fluent-syntax-0.9.3\src\lib.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\fluent-syntax-0.9.3\src\ast.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\fluent-syntax-0.9.3\src\parser\mod.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\fluent-syntax-0.9.3\src\parser\errors.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\fluent-syntax-0.9.3\src\parser\ftlstream.rs:
+C:\Users\Punkm\.cargo\registry\src\github.com-1ecc6299db9ec823\fluent-syntax-0.9.3\src\unicode.rs:
