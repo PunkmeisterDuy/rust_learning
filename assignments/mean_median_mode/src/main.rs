@@ -23,7 +23,7 @@ fn main() {
     let length = vector.len();
     
     match is_even(&mut vector) {
-        Some(true) => {
+   Some(true) => {
             let index = (length as f32) / 2.0;
             println!("{}", index)
             median = 0;
