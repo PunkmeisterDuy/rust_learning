@@ -1,12 +1,10 @@
+use hello::ThreadPool;
+use std::fs;
 use std::io::prelude::*;
 use std::net::TcpListener;
 use std::net::TcpStream;
-use std::fs;
 use std::thread;
 use std::time::Duration;
-use hello::ThreadPool;
-
-// WHY DO WE NEED A BIN FOLDER
 
 fn main() {
     let listener = TcpListener::bind("127.0.0.1:7878").unwrap();
@@ -19,16 +17,13 @@ fn main() {
             handle_connection(stream);
         });
     }
-}
 
+    println!("Shutting down.");
+}
 
 fn handle_connection(mut stream: TcpStream) {
     let mut buffer = [0; 1024];
-
     stream.read(&mut buffer).unwrap();
-
-    let get = b"GET / HTTP/1.1\r\n";
-
 
     let get = b"GET / HTTP/1.1\r\n";
     let sleep = b"GET /sleep HTTP/1.1\r\n";
